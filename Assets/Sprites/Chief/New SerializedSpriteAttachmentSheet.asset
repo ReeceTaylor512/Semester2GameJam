@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21960229f23f4d5459c84b26a1729bb1, type: 3}
+  m_Name: New SerializedSpriteAttachmentSheet
+  m_EditorClassIdentifier: 
+  Texture: {fileID: 2800000, guid: c8af4b3232e8a46468adc851ae943e43, type: 3}
+  AttachmentSprites:
+  - Name: Halo Spritesheet_0
+    pivot: {x: 15, y: 17}
+    textureRect:
+      serializedVersion: 2
+      x: 5
+      y: 3
+      width: 30
+      height: 34
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.40426067, y: 0.055948697}
+      EditorPosition: {x: 435, y: 235}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_1
+    pivot: {x: 9, y: 17}
+    textureRect:
+      serializedVersion: 2
+      x: 39
+      y: 3
+      width: 18
+      height: 34
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.36215538, y: -0.0608138}
+      EditorPosition: {x: 242, y: 301}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_2
+    pivot: {x: 12, y: 17.5}
+    textureRect:
+      serializedVersion: 2
+      x: 63
+      y: 3
+      width: 24
+      height: 35
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.28446114, y: -0.029323308}
+      EditorPosition: {x: 297, y: 292}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_3
+    pivot: {x: 16, y: 17.5}
+    textureRect:
+      serializedVersion: 2
+      x: 92
+      y: 3
+      width: 32
+      height: 35
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.33082706, y: 0.09613319}
+      EditorPosition: {x: 426, y: 219}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_4
+    pivot: {x: 17, y: 17.5}
+    textureRect:
+      serializedVersion: 2
+      x: 130
+      y: 3
+      width: 34
+      height: 35
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.38987175, y: 0.12706767}
+      EditorPosition: {x: 487, y: 201}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_5
+    pivot: {x: 13, y: 17}
+    textureRect:
+      serializedVersion: 2
+      x: 173
+      y: 3
+      width: 26
+      height: 34
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.36986697, y: 0.066563465}
+      EditorPosition: {x: 360, y: 229}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_6
+    pivot: {x: 10.5, y: 16.5}
+    textureRect:
+      serializedVersion: 2
+      x: 206
+      y: 3
+      width: 21
+      height: 33
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.35356247, y: -0.017657781}
+      EditorPosition: {x: 282, y: 268}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_7
+    pivot: {x: 12.5, y: 17}
+    textureRect:
+      serializedVersion: 2
+      x: 232
+      y: 3
+      width: 25
+      height: 34
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.40706766, y: -0.0059708096}
+      EditorPosition: {x: 361, y: 270}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_8
+    pivot: {x: 15, y: 16.5}
+    textureRect:
+      serializedVersion: 2
+      x: 263
+      y: 4
+      width: 30
+      height: 33
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.42030075, y: 0.0898838}
+      EditorPosition: {x: 443, y: 209}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_9
+    pivot: {x: 17, y: 16.5}
+    textureRect:
+      serializedVersion: 2
+      x: 298
+      y: 4
+      width: 34
+      height: 33
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.4128704, y: 0.12816131}
+      EditorPosition: {x: 500, y: 188}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
+  - Name: Halo Spritesheet_10
+    pivot: {x: 14.5, y: 16}
+    textureRect:
+      serializedVersion: 2
+      x: 338
+      y: 4
+      width: 29
+      height: 32
+    Attachments:
+    - Name: Hand
+      NormalizedPosition: {x: 0.420923, y: 0.037593983}
+      EditorPosition: {x: 428, y: 230}
+      Rotation: {x: 0, y: 0, z: 0, w: 1}
